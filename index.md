@@ -42,16 +42,16 @@ Due to this being a mini, we will do our best to skirt into a new topic each and
 [**Day 1**](syllabus/1-Introduction.html) (10/26): Introduction  
 [**Day 2**](syllabus/2-One-Qbit.html) (10/28): Qubits  
 [**Day 3**](syllabus/3-Multi-Qbits.html) (11/02): Multiple Qubits  
-[**Day 4**](syllabus/4-Teleportation.md) (11/04): Quantum Teleportation  
-[**Day 5**](syllabus/5-BB84.md) (11/09): BB84  
-[**Day 6**](syllabus/6-Arithmetic.md) (11/11): Quantum Arithmetic and Logic  
-[**Day 7**](syllabus/7-Amp-Amp.md) (11/16): Amplitude Amplification  
-[**Day 8**](syllabus/8-QFT.md) (11/18): QFT: Quantum Fourier Transform  
-[**Day 9**](syllabus/9-Quantum-Phase-Estimation.md) (11/23): Quantum Phase Estimation  
+[**Day 4**](syllabus/4-Teleportation.html) (11/04): Quantum Teleportation  
+[**Day 5**](syllabus/5-BB84.html) (11/09): BB84  
+[**Day 6**](syllabus/6-Arithmetic.html) (11/11): Quantum Arithmetic and Logic  
+[**Day 7**](syllabus/7-Amp-Amp.html) (11/16): Amplitude Amplification  
+[**Day 8**](syllabus/8-QFT.html) (11/18): QFT: Quantum Fourier Transform  
+[**Day 9**](syllabus/9-Quantum-Phase-Estimation.html) (11/23): Quantum Phase Estimation  
 **No Class** (11/25): Thanksgiving!  
-[**Day 10**](syllabus/10-Real-Data.md) (11/30): Real Data  
-[**Day 11**](syllabus/11-Quantum-Search.md) (12/02): Quantum Search  
-[**Day 12**](syllabus/12-Shors.md) (12/07): Shor's Factoring Algorithm  
+[**Day 10**](syllabus/10-Real-Data.html) (11/30): Real Data  
+[**Day 11**](syllabus/11-Quantum-Search.html) (12/02): Quantum Search  
+[**Day 12**](syllabus/12-Shors.html) (12/07): Shor's Factoring Algorithm  
 [**Day 13**](syllabus/) (12/09): David Bernal
 
 *Schedule with assignments, readings, etc. can be found [here](schedule.html)*
