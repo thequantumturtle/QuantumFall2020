@@ -9,7 +9,7 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
 Mondays and Wednesdays (3:20pm to 4:40pm @ 3SC 265)   
-Daniel Justice
+[Daniel Justice](https://thequantumturtle.github.io/)
 
 
 ## Location
